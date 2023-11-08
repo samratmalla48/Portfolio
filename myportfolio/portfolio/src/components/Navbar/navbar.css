@@ -19,3 +19,20 @@
     cursor:pointer;
 
 }
+.desktopMenuBtn{
+    background-color: white;
+    color: black;
+    border: none;
+    align-items: center;
+    justify-items: center;
+    padding: 0 1rem;
+    border-radius: 2rem;
+    display: flex;
+
+}
+.desktopMenuListItems:hover {
+    color: yellow;
+    border-bottom: 1px solid yellow;
+    border-color: yellow;
+    padding-bottom: 0.5rem;
+}
