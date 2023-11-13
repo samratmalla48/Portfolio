@@ -1,7 +1,7 @@
 import React from "react";
 import "./intro.css";
 
-import bg from "../../../assets/new.png";
+import bg from "../../assets/new.png";
 import { Link } from "react-scroll";
 const Intro = () => {
   return (
