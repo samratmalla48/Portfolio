@@ -1,0 +1,35 @@
+#about {
+    /* background-color: #f2f2f2; */
+    padding: 2rem 0;
+  }
+  
+  .aboutContent {
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .aboutContent h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .aboutContent p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  @media screen and (max-width: 840px) {
+    .aboutContent h2 {
+      font-size: 2rem;
+    }
+  
+    .aboutContent p {
+      font-size: 1rem;
+    }
+  }
+  
