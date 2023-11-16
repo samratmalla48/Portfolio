@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./intro.css";
 
 import bg from "../../assets/new.png";
@@ -25,3 +26,4 @@ const Intro = () => {
 };
 
 export default Intro;
+
